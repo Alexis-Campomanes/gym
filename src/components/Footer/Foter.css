@@ -21,7 +21,12 @@
     gap: 4rem;
 }
 
-.social-links>a>img{
+.social-links>:nth-child(1){
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+}
+.social-links>:nth-child(2){
     width: 2rem;
     height: 2rem;
     cursor: pointer;
