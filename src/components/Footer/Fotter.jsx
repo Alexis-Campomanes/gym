@@ -10,7 +10,7 @@ const Fotter = () => {
       <hr />
         <div className='footer'>
           <div className='social-links'>
-          <img src={ Github } alt="" />
+          <a href='https://github.com/Alexis-Campomanes/gym'><img src={ Github } alt="" /></a>
         <img src={ Linkedin } alt="" />
          </div>
         <div className="logo-f">
