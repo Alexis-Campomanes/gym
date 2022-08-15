@@ -11,7 +11,7 @@ const Fotter = () => {
         <div className='footer'>
           <div className='social-links'>
           <a href='https://github.com/Alexis-Campomanes/gym'><img src={ Github } alt="" /></a>
-        <img src={ Linkedin } alt="" />
+        <a href='https://www.linkedin.com/in/alexiscampomanes/'><img src={ Linkedin } alt="" /></a>
          </div>
         <div className="logo-f">
           <img src={ Logo } alt="" />
